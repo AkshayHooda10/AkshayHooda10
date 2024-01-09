@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I turn coffee ☕ into code 💻 </h2></summary>
+    <summary><h2 style="display: inline-block">I TURN COFFEE ☕ INTO CODE 💻 </h2></summary>
   </ul>
 </div>
 
@@ -47,10 +47,8 @@
 <td width="50%" align="center">
   
   <img  align="center"  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkshayHooda10&theme=merko&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a> 
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayHooda10t&theme=dark&hide_border=false" /> 
+  <br></br> 
 </td>
-
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AkshayHooda10&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
