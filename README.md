@@ -12,8 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="![image](https://github.com/AkshayHooda10/AkshayHooda10/assets/112803446/49e0f92b-afef-4aae-bd5b-a7b77c22d16d)
-"
+  <img  src="https://github.com/AkshayHooda10/AkshayHooda10/assets/112803446/49e0f92b-afef-4aae-bd5b-a7b77c22d16d"
        alt="codergif" /></a>
 </div>
 
@@ -98,11 +97,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/akshay-hooda-829/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.behance.net/akshayhooda1" target="_blank">
-  <img align="center" src="https://path/to/your/behance/logo.png" alt="Behance" height="50" width="50" />
-</a>
-  
+<a href="https://www.linkedin.com/in/akshay-hooda-829/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
 </p>
 
 
