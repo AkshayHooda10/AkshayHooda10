@@ -46,7 +46,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkshayHooda10&theme=merko&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a> 
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkshayHooda10&theme=merko&date_format=j%20M%5B%20Y%5D&exclude_days=Sun,Sat" alt="GitHub Streak" /></a> 
   <br></br> 
 </td>
 <td width="50%" align="center">
